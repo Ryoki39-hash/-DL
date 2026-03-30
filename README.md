@@ -1,4 +1,5 @@
-# GCI competition2
+# Inplementation of basic DL concepts
 
-NFL Draft
+NFL Draf
+t
 
